@@ -267,7 +267,7 @@ local: `tech_news/menu.py`
 ### To run:
 
 1. Clone the repository
-  * `git clone git@github.com:thiagopcdev/Project-Inventory-Report.git`
+  * `git clone git@github.com:thiagopcdev/Project-Tech-News.git`
 2. Enter the repository folder you just cloned:
   * `cd SD-012-TECH-NEWS`
 3. Create the virtual environment for the project:
